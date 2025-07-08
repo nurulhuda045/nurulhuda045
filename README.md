@@ -33,9 +33,9 @@
     <a href="https://www.linkedin.com/in/nurulhuda5/">
         <img src="https://img.shields.io/badge/For_Professional_Updates-15k?style=for-the-badge&color=0a66c2&logo=linkedin" alt="LinkedIn"/>
     </a>
-<!--     <a href="https://www.instagram.com/noorul0702/">
+    <a href="https://www.instagram.com/noorul_0702/">
         <img src="https://img.shields.io/badge/For_Personal_Updates-2k?style=for-the-badge&color=E4405F&logo=instagram&logoColor=fff" alt="Instagram"/>
-    </a> -->
+    </a>
 </p>
 
 
